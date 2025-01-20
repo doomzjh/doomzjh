@@ -1,16 +1,28 @@
-## Come take a look at my Github!!! >_0
+<h1 align="left">WELCOME TO MY GITHUB WORLD</h1>
 
-<!--
-**doomzjh/doomzjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I am Jhowanalyn Dumapat</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">A passionate Industrial Engineering student. Yes, believe me :))))</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/doomzj?igsh=anYydHd4OHdtdHZq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/negativezerooo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhzNnQyMWlxd3VlN3drOXZjaDAzMWJrbnNmYmJxNWxrZW11cjc4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2alKkyRFPKRSU/giphy.gif"  />
+</div>
+
+###
